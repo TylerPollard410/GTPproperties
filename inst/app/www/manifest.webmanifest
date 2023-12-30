@@ -3,7 +3,7 @@
   "short_name": "GTP Analysis",
   "description": "Property Analysis",
   "lang": "en-US",
-  "start_url": "https://tylerpollard410.shinyapps.io/GTPproperties/",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
@@ -18,7 +18,7 @@
       "name": "Shortcut",
       "short_name": "Shortcut",
       "description": "Do something",
-      "url": "https://tylerpollard410.shinyapps.io/GTPproperties/?foo=1",
+      "url": "/?foo=1",
       "icons": [
         {
           "src": "icons/shortcut.png",
