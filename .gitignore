@@ -6,3 +6,4 @@
 .httr-oauth
 .DS_Store
 .quarto
+truelle_app_build.R
