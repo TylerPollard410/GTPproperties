@@ -12,3 +12,4 @@ $run_dev.*
 ^truelle_app_build.R
 ^app\.R$
 ^rsconnect$
+^set_pwa.R

@@ -1,0 +1,30 @@
+{
+  "name": "GTP Properties Analysis App",
+  "short_name": "GTP Analysis",
+  "description": "Property Analysis",
+  "lang": "en-US",
+  "start_url": "https://tylerpollard410.shinyapps.io/GTPproperties/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "icons/icon-144.png",
+      "sizes": "144x144"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Shortcut",
+      "short_name": "Shortcut",
+      "description": "Do something",
+      "url": "https://tylerpollard410.shinyapps.io/GTPproperties/?foo=1",
+      "icons": [
+        {
+          "src": "icons/shortcut.png",
+          "sizes": "192x192"
+        }
+      ]
+    }
+  ]
+}

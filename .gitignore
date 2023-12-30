@@ -7,3 +7,5 @@
 .DS_Store
 .quarto
 truelle_app_build.R
+inst/**/rsconnect
+set_pwa.R
