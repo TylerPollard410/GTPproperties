@@ -12,7 +12,7 @@ app_ui <- function(request) {
     # Leave this function for adding external resources
     golem_add_external_resources(),
     f7Page(
-      allowPWA = FALSE,
+      allowPWA = TRUE,
       options = list(
         theme = c("ios", "md", "auto", "aurora"),
         dark = TRUE,
