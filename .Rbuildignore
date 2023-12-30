@@ -10,3 +10,5 @@ $run_dev.*
 ^README\.Rmd$
 ^CODE_OF_CONDUCT\.md$
 ^truelle_app_build.R
+^app\.R$
+^rsconnect$
